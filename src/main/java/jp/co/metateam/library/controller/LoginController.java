@@ -25,7 +25,5 @@ public class LoginController {
         return "redirect:/login";
     }
 
-    //金子佳寿柾
+    //test 金子
 }
-
-
