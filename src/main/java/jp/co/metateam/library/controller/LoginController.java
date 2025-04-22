@@ -24,6 +24,6 @@ public class LoginController {
         }
         return "redirect:/login";
     }
+
+    //test 金子
 }
-
-
